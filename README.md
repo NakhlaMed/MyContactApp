@@ -39,18 +39,12 @@ Structure du Code
 ContactAdapter
 Le ContactAdapter est responsable de l'affichage des contacts dans une RecyclerView. Il prend en charge l'affichage du nom et du numéro de téléphone du contact, ainsi que l'affichage de la première lettre du nom dans un cercle coloré.
 
-MainActivity
+MainActivity:
 La MainActivity contient la logique principale de l'application, y compris l'initialisation de la liste des contacts, la gestion de la recherche et le traitement des actions pour appeler ou envoyer un message.
 
-Ressources XML
+Ressources XML:
 contact_item.xml : Layout pour chaque élément de contact affiché dans la liste.
 activity_main.xml : Layout principal de l'activité avec la RecyclerView pour afficher les contacts et la barre de recherche.
-Permissions
-L'application nécessite les permissions suivantes pour pouvoir passer des appels et envoyer des messages :
+Permissions:
+L'application nécessite des permissions pour pouvoir passer des appels et envoyer des messages .
 
-CALL_PHONE
-SEND_SMS
-Ces permissions peuvent être ajoutées dans le fichier AndroidManifest.xml.
-
-Auteurs
-Ismail Lahniti : Développeur principal
