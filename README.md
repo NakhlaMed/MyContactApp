@@ -22,7 +22,7 @@
 
 1. Clonez le repository :
    ```bash
-   git clone https://github.com/lahniti9/MyContactApp.git
+   git clone https://github.com/NakhlaMed/MyContactApp.git
 2. Ouvrez le projet dans Android Studio.
 3. Assurez-vous d'avoir les dernières dépendances installées en ouvrant le terminal dans Android Studio et en exécutant :
 bash
