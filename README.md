@@ -1,10 +1,6 @@
 # MyContactApp
-![WhatsApp Image 2024-11-08 at 19 19 00](https://github.com/user-attachments/assets/c6b743d3-ccd4-4759-b305-07c61225c899)
 
 
-
-![WhatsApp Image 2024-11-08 at 19 ![WhatsApp Image 2024-11-08 at 19 18 58 (1)](https://github.com/user-attachments/assets/4428aee0-cfa2-4808-b29a-89f1a8c14d07)
-19 00 (1)](https://github.com/user-attachments/assets/0b8f5417-41cd-4901-aaac-3474f96db4a1)
 
 **MyContactApp** est une application Android permettant de gérer et d'afficher des contacts. Elle offre une interface simple pour afficher la liste des contacts, avec des options pour appeler ou envoyer des messages. Chaque contact est affiché avec une première lettre de son nom dans un cercle coloré unique, généré dynamiquement en fonction du nom du contact.
 
